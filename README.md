@@ -1,5 +1,11 @@
 # BasicTrafficLight
-This project is a basic traffic light using ATmega32 MCU and simulated using Proteus
+This project is a basic traffic light based on AVR ATmega32
+
+#Components used:
+- AVR ATmega32
+- Three 340 ohm resistors
+- 3 LEDS (red, yellow & green)
+- 2 seven segment displays 
 
 
 #  Simulation
