@@ -10,5 +10,7 @@ This project is a basic traffic light based on AVR ATmega32
 
 #  Simulation
 
-https://github.com/ma7moud111/BasicTrafficLight/assets/77998714/8dded9e3-725d-4a06-8a9c-44875a64b963
+https://github.com/ma7moud111/BasicTrafficLight/assets/77998714/f91dedf6-4b84-437e-a7e7-c461a97847b0
+
+
 
